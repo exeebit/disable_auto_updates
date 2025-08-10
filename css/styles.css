@@ -1,0 +1,53 @@
+#dau {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-family: Poppins;
+}
+#dau-title {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+#dau label {
+  font-size: 18px;
+  cursor: text;
+  line-height: 30px;
+}
+#dau-disable-checkbox {
+  text-align: right;
+}
+
+#dau-form {
+  max-width: 600px;
+}
+
+.dau-form-tick {
+  float: right;
+  margin-top: 7px!important;
+}
+
+#dau-button {
+  margin-top: 40px;
+  font-size: 16px!important;
+  height: 40px;
+  width: 140px;
+  cursor: pointer;
+  background-color: #0d66c2;
+  color: white;
+  border: none;
+  border-radius: 20px;
+}
+#dau-console {
+  line-height: 1.5;
+  height: 150px;
+  width: 97%;
+  overflow: auto;
+  background-color: gray;
+  color: white;
+  scrollbar-base-color: gold;
+  font-family: sans-serif;
+  padding: 10px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=styles.css.map */
